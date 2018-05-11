@@ -12,8 +12,8 @@
 	</head>
 	<body>
 		<ul>
-			<li><a href = "index.html">Home</a></li>
-			<li><a href = "about.html">About</a></li>
+			<li><a href = "index.php">Home</a></li>
+			<li><a href = "about.php">About</a></li>
 		</ul>
 		
 		<br><br><br>
