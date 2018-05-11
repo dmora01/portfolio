@@ -31,6 +31,8 @@
             Passwords are also NOT stored as plaintext, they are encrypted when signing up and when changing your password.
         </p>
 
+        <br><br><br>
+
         <footer>
             <p>
                 Please use proper email etiquette.
