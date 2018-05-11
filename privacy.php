@@ -14,7 +14,6 @@
     <body>
         <ul>
 			<li><a href = "index.php">Home</a></li>
-			<li><a href = "about.php">About</a></li>
 			<li><a href = "privacy.php">Privacy</a></li>
 		</ul>
 
@@ -29,8 +28,16 @@
         <p class = "description">
             This developer has no access to your personal information, including your password used to login.
             All login credentials are stored securely through Firebase, with passwords being witheld from the Firebase console.
-            Passwords are also NOT stored as plaintext, they are encypted when signing up and when changing your password.
+            Passwords are also NOT stored as plaintext, they are encrypted when signing up and when changing your password.
         </p>
 
+    <footer>
+        <p>
+            Please use proper email etiquette.
+        </p>
+        <p>
+            Email: dmora.dev.contact@gmail.com
+        </p>
+    </footer>
     </body>
 </html>
