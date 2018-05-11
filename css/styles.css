@@ -37,6 +37,13 @@ p.description
 	padding-left: 3.5em;
 	font-size: 1.8em;
 }
+@media only screen and (max-width 600px)
+{
+	p.description
+	{
+		text-align: center;
+	}
+}
 a.link
 {
 	background-color: #333;
