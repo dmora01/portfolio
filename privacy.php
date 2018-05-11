@@ -31,13 +31,13 @@
             Passwords are also NOT stored as plaintext, they are encrypted when signing up and when changing your password.
         </p>
 
-    <footer>
-        <p>
-            Please use proper email etiquette.
-        </p>
-        <p>
-            Email: dmora.dev.contact@gmail.com
-        </p>
-    </footer>
+        <footer>
+            <p>
+                Please use proper email etiquette.
+            </p>
+            <p>
+                Email: dmora.dev.contact@gmail.com
+            </p>
+        </footer>
     </body>
 </html>

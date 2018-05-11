@@ -32,6 +32,13 @@ h1
 	text-align: center;
 	font-size: 3.0em;
 }
+footer
+{
+	display: block;
+	text-align: center;
+	position: absolute;
+	bottom: 0;
+}
 p.description
 {
 	font-size: 1.8em;
