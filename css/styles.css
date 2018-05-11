@@ -37,7 +37,7 @@ p.description
 	padding-left: 3.5em;
 	font-size: 1.8em;
 }
-@media screen and (max-width 600px)
+@media and (max-width 600px)
 {
 	body
 	{
@@ -60,14 +60,21 @@ a.link:hover
 }
 .Translator
 {
-	display: inline;
+	text-align: center;
 }
 .translatorAppIcon
 {
-	display: flex;
-	padding-left: 5.8em;
+	text-align: center;
 }
 .AppStore
 {
-	padding-left: 8.1em;
+	text-align: center;
+}
+.RooMes
+{
+	text-align: center;
+}
+.roomesAppIcon
+{
+	text-align: center;
 }
