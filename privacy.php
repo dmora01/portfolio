@@ -19,7 +19,7 @@
 		</ul>
 
 		<br><br><br>
-        
+
         <h1>
             Privacy Policy
         </h1>
@@ -29,7 +29,7 @@
         <p class = "description">
             This developer has no access to your personal information, including your password used to login.
             All login credentials are stored securely through Firebase, with passwords being witheld from the Firebase console.
-            Passwords are also <h6>not</h6> stored as plaintext, they are encypted when signing up and when changing your password.
+            Passwords are also NOT stored as plaintext, they are encypted when signing up and when changing your password.
         </p>
 
     </body>
