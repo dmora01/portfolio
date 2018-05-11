@@ -6,7 +6,7 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 
-		<title></title>
+		<title>Home</title>
 
 		<link rel="stylesheet" href="css/styles.css">
 	</head>
@@ -38,6 +38,9 @@
 				<a class = "link" href = "https://itunes.apple.com/us/app/translate-this-language/id1246949377?mt=8" target = "blank">App Store</a>
 			</div>
 		</div>
+
+		<br><br><br>
+
 		<div class = "RooMes">
 			<div class = "roomesAppIcon">
 				<img src = "img/roomies.png" height = "200" width = "200">
