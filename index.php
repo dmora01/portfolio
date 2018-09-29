@@ -53,5 +53,22 @@
 				<a class = "link" href = "https://itunes.apple.com/us/app/roomes/id1323843003?mt=8" target = "blank">App Store</a>
 			</div>
 		</div>
+
+		<br><br><br>
+
+		<div class = "Exchangin'-Change">
+			<div class = "exchanginAppIcon">
+				<img src = "img/exchange.png" height = "200" width = "200">
+				<p class = "description"> An iOS application that can compute the exchange rate between currencies. 
+					Select the base in this case the currecy you have to currency you want. 
+					After the current exchange amount will be displayed. 
+					This app also supports crypto-currencies as well.
+				</p>
+			</div>
+			<div class = "AppStore">
+				<br>
+				<p>Link will be added once app is fully published</p>
+			</div>
+		</div>
 	</body>
 </html>
