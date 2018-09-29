@@ -25,7 +25,7 @@
 		<br><br>
 
 		<div class = "Translator">
-			<div class = "translatorAppIcon">
+			<div class = "icons">
 				<img src = "img/translator.jpg" height = "200" width = "200">
 				<p class = "description">An iOS application that is able to translate over one hundred languages.
 					Supported languages are able to be spoken in the language of your choice.
@@ -41,7 +41,7 @@
 		<br><br><br>
 
 		<div class = "RooMes">
-			<div class = "roomesAppIcon">
+			<div class = "icons">
 				<img src = "img/roomies.png" height = "200" width = "200">
 				<p class = "description">An iOS application that gives you a central location for roommate affairs.
 					Discuss matters of the household without being out of the loop.
@@ -57,7 +57,7 @@
 		<br><br><br>
 
 		<div class = "ExchanginChange">
-			<div class = "exchanginAppIcon">
+			<div class = "icons">
 				<img src = "img/exchange.png" height = "200" width = "200">
 				<p class = "description"> An iOS application that can compute the exchange rate between currencies. 
 					Select the base in this case the currecy you have to currency you want. 
