@@ -42,14 +42,6 @@ p.description
 {
 	font-size: 1.8em;
 }
-@media and (max-width 600px)
-{
-	body
-	{
-		text-align: center;
-		align-content: center;
-	}
-}
 a.link
 {
 	background-color: #333;
