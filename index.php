@@ -56,7 +56,7 @@
 
 		<br><br><br>
 
-		<div class = "Exchangin'-Change">
+		<div class = "ExchanginChange">
 			<div class = "exchanginAppIcon">
 				<img src = "img/exchange.png" height = "200" width = "200">
 				<p class = "description"> An iOS application that can compute the exchange rate between currencies. 
