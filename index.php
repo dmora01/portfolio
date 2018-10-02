@@ -67,7 +67,7 @@
 			</div>
 			<div class = "AppStore">
 				<br>
-				<p>Link will be added once app is fully published</p>
+				<a class = "link" href = "https://itunes.apple.com/us/app/exchangin-change/id1429429301?mt=8" target = "blank">App Store</a>
 			</div>
 		</div>
 	</body>
