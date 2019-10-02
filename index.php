@@ -14,6 +14,7 @@
 		<ul>
 			<li><a href = "index.php">Home</a></li>
 			<li><a href = "privacy.php">Privacy</a></li>
+			<li><a href = "support.php">Support</a></li>
 		</ul>
 
 		<br><br><br>
