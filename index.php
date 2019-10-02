@@ -71,5 +71,22 @@
 				<a class = "link" href = "https://itunes.apple.com/us/app/exchangin-change/id1429429301?mt=8" target = "blank">App Store</a>
 			</div>
 		</div>
+
+		<br><br><br>
+
+		<div class="garmnt">
+			<div class="icons">
+				<img src="img/garmnt.png" height="200" width="200">
+				<p class="description">
+					An iOS application that analyzes clothing by using image classifiers. 
+					By using photos of clothing inside a custom album the app is able to classify the pictures and store the data locally. 
+					Users are able to enter attributes to generate clothing to wear for the day, or see matching clothing.
+				</p>
+			</div>
+			<div class="AppStore">
+				<br>
+				<a class="link" href="#" target="blank">Coming Soon</a>
+			</div>
+		</div>
 	</body>
 </html>
