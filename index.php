@@ -85,7 +85,7 @@
 			</div>
 			<div class="AppStore">
 				<br>
-				<a class="link" href="#" target="blank">Coming Soon</a>
+				<a class="link" href="https://apps.apple.com/us/app/garmnt/id1474722124?ls=1" target="blank">App Store</a>
 			</div>
 		</div>
 	</body>
