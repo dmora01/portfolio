@@ -88,5 +88,22 @@
 				<a class="link" href="https://apps.apple.com/us/app/garmnt/id1474722124?ls=1" target="blank">App Store</a>
 			</div>
 		</div>
+
+		<br><br><br>
+
+		<div class="MintCommission">
+			<div class="icons">
+				<img src="img/mint.png" height="200" width="200">
+				<p class="description">
+					Mint Commission is a place where freelancers can notify others that they are able to take on commissions. 
+					Get personalized notifications when someone is available to take on jobs. 
+					Freelancers can update their profile to display what they do best.
+				</p>
+			</div>
+			<div class="AppStore">
+				<br>
+				<a class="link" href="https://apps.apple.com/us/app/mint-commission/id1484200661" target="blank">App Store</a>
+			</div>
+		</div>
 	</body>
 </html>
